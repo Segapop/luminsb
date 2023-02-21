@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "luminsb:item/opal_gem_0"
+  }
+}
